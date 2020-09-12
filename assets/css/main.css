@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+#mainLogo{
+	object-fit: contain;
+}
+
 /* Page */
 
 	@-moz-keyframes load-spinner {
